@@ -4,7 +4,11 @@
   "verify_keys": [
     "ねこかわいい"
   ],
-  "reaction_roles": {},
+  "reaction_roles": {
+    "1420521760444387328": {
+      "✅": 1420522957767180368
+    }
+  },
   "bump_cooldowns": {
     "disboard_next": 0,
     "disoku_next": 0
