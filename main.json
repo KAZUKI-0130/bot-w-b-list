@@ -1,1 +1,8 @@
-
+{
+  "whitelist": [],
+  "blacklist": [],
+  "verify_keys": [],
+  "reaction_roles": {},
+  "bump_cooldowns": { "disboard_next": 0, "disoku_next": 0 },
+  "overrides": {}
+}
