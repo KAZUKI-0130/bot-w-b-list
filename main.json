@@ -45,7 +45,9 @@
         }
       ],
       "title": "あ",
-      "mode": "single"
+      "mode": "single",
+      "channel_id": 1431471065611243560,
+      "message_id": 1434774255270105139
     }
   }
 }
