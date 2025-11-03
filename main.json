@@ -42,6 +42,19 @@
       "mode": "multi",
       "channel_id": 1431471065611243560,
       "message_id": 1434774255270105139
+    },
+    "A": {
+      "options": [],
+      "title": "A:名前の色を選択してください。",
+      "mode": "single"
     }
+  },
+  "status_msg": {
+    "message_id": 1434810666182639667
+  },
+  "lists": {
+    "blacklist": [
+      716678620546072578
+    ]
   }
 }
