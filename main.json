@@ -9,7 +9,13 @@
     "ARASHI_LOG_CHANNEL_ID": 1428719350684061697,
     "STATUS_CHANNEL_ID": 1431471065611243560
   },
-  "embeds": {},
+  "embeds": {
+    "あ": {
+      "title": "あ",
+      "description": "あ",
+      "color": "black"
+    }
+  },
   "panels": {
     "setting": {
       "channel_id": 1431471065611243560,
