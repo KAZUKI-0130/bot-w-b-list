@@ -37,13 +37,7 @@
   "verify_keys": [],
   "rolemenu": {
     "あ": {
-      "options": [
-        {
-          "role_id": 1420556526539505819,
-          "label": "B",
-          "emoji": "🌼"
-        }
-      ],
+      "options": [],
       "title": "名前の色を選択してください。",
       "mode": "single",
       "channel_id": 1431471065611243560,
