@@ -1,9 +1,7 @@
 {
   "whitelist": [],
   "blacklist": [],
-  "verify_keys": [
-    "ねこかわいい"
-  ],
+  "verify_keys": [],
   "reaction_roles": {
     "1420521760444387328": {
       "✅": 1420522957767180368
