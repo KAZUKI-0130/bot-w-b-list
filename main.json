@@ -3,7 +3,7 @@
     "LOG_CHANNEL_ID": null,
     "WELCOME_CHANNEL_ID": null,
     "LEAVE_CHANNEL_ID": null,
-    "VERIFY_ROLE_ID": null,
+    "VERIFY_ROLE_ID": 1420522957767180368,
     "VERIFY_CHANNEL_ID": 1431471065611243560,
     "SETTING_CHANNEL_ID": 1431471065611243560,
     "ARASHI_LOG_CHANNEL_ID": 1428719350684061697
@@ -15,8 +15,8 @@
       "message_id": 1434757875313541120
     },
     "verify": {
-      "channel_id": null,
-      "message_id": null
+      "channel_id": 1431471065611243560,
+      "message_id": 1434758101613150400
     }
   },
   "security": {
