@@ -10,9 +10,18 @@
   },
   "embeds": {},
   "panels": {
-    "setting": { "channel_id": null, "message_id": null },
-    "verify":  { "channel_id": null, "message_id": null }
+    "setting": {
+      "channel_id": 1431471065611243560,
+      "message_id": 1434757875313541120
+    },
+    "verify": {
+      "channel_id": null,
+      "message_id": null
+    }
   },
-  "security": { "blacklist": [], "whitelist": [] },
+  "security": {
+    "blacklist": [],
+    "whitelist": []
+  },
   "verify_keys": []
 }
