@@ -161,6 +161,13 @@
       "mode": "single",
       "channel_id": 1420551188453261375,
       "message_id": 1434816711315427379
+    },
+    "D": {
+      "options": [],
+      "title": "D:特に意味の無いロールです。",
+      "mode": "single",
+      "channel_id": 1420551188453261375,
+      "message_id": 1434816947463258132
     }
   },
   "status_msg": {
