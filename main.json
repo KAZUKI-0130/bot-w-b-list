@@ -145,7 +145,13 @@
       "message_id": 1434815849864102041
     },
     "C": {
-      "options": [],
+      "options": [
+        {
+          "role_id": 1420548313807061052,
+          "label": "女",
+          "emoji": null
+        }
+      ],
       "title": "C:性別を選択してください。",
       "mode": "single",
       "channel_id": 1420551188453261375,
