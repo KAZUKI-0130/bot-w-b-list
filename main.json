@@ -46,7 +46,9 @@
     "A": {
       "options": [],
       "title": "A:名前の色を選択してください。",
-      "mode": "single"
+      "mode": "single",
+      "channel_id": 1420551188453261375,
+      "message_id": 1434813840368865361
     }
   },
   "status_msg": {
