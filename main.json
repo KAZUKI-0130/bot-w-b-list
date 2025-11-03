@@ -34,5 +34,12 @@
     "blacklist": [],
     "whitelist": []
   },
-  "verify_keys": []
+  "verify_keys": [],
+  "rolemenu": {
+    "あ": {
+      "options": [],
+      "title": "あ",
+      "mode": "single"
+    }
+  }
 }
