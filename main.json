@@ -6,7 +6,8 @@
     "VERIFY_ROLE_ID": 1420522957767180368,
     "VERIFY_CHANNEL_ID": 1431471065611243560,
     "SETTING_CHANNEL_ID": 1431471065611243560,
-    "ARASHI_LOG_CHANNEL_ID": 1428719350684061697
+    "ARASHI_LOG_CHANNEL_ID": 1428719350684061697,
+    "STATUS_CHANNEL_ID": 1431471065611243560
   },
   "embeds": {},
   "panels": {
@@ -17,6 +18,10 @@
     "verify": {
       "channel_id": 1431471065611243560,
       "message_id": 1434758101613150400
+    },
+    "status": {
+      "channel_id": 1431471065611243560,
+      "message_id": 1434768045674594386
     }
   },
   "security": {
