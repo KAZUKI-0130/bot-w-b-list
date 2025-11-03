@@ -92,7 +92,13 @@
       "message_id": 1434813840368865361
     },
     "B": {
-      "options": [],
+      "options": [
+        {
+          "role_id": 1420547356603977758,
+          "label": "OW2",
+          "emoji": null
+        }
+      ],
       "title": "B:性別を選択してください。",
       "mode": "single",
       "channel_id": 1420551188453261375,
