@@ -143,6 +143,13 @@
       "mode": "multi",
       "channel_id": 1420551188453261375,
       "message_id": 1434815849864102041
+    },
+    "C": {
+      "options": [],
+      "title": "C:性別を選択してください。",
+      "mode": "single",
+      "channel_id": 1420551188453261375,
+      "message_id": 1434816711315427379
     }
   },
   "status_msg": {
