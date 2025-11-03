@@ -1,15 +1,18 @@
 {
-  "whitelist": [],
-  "blacklist": [],
-  "verify_keys": [],
-  "reaction_roles": {
-    "1420521760444387328": {
-      "✅": 1420522957767180368
-    }
+  "cfg": {
+    "LOG_CHANNEL_ID": null,
+    "WELCOME_CHANNEL_ID": null,
+    "LEAVE_CHANNEL_ID": null,
+    "VERIFY_ROLE_ID": null,
+    "VERIFY_CHANNEL_ID": 1431471065611243560,
+    "SETTING_CHANNEL_ID": 1431471065611243560,
+    "ARASHI_LOG_CHANNEL_ID": 1428719350684061697
   },
-  "bump_cooldowns": {
-    "disboard_next": 0,
-    "disoku_next": 0
+  "embeds": {},
+  "panels": {
+    "setting": { "channel_id": null, "message_id": null },
+    "verify":  { "channel_id": null, "message_id": null }
   },
-  "overrides": {}
+  "security": { "blacklist": [], "whitelist": [] },
+  "verify_keys": []
 }
