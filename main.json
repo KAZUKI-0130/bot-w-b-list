@@ -36,7 +36,9 @@
     }
   },
   "security": {
-    "blacklist": [],
+    "blacklist": [
+      1088489686915350669
+    ],
     "whitelist": []
   },
   "verify_keys": [],
