@@ -194,6 +194,11 @@
       ],
       "title": "ロールを選択",
       "mode": "single"
+    },
+    "うん": {
+      "options": [],
+      "title": "ロールを選択",
+      "mode": "single"
     }
   },
   "status_msg": {
